@@ -114,14 +114,5 @@ This project was developed as part of an internship at **Elevate Labs**, focusin
 
 ---
 
-## **📄 License**
 
-This project is intended for **educational and internship purposes only**.
-
----
-
-## **🙌 Author**
-
-**Vatsal Gajjar**
-Intern – **Elevate Labs**
 
