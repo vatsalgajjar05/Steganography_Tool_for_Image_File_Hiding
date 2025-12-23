@@ -1,0 +1,12 @@
+# Image Processing
+Pillow>=10.0.0
+
+# Steganography
+stepic>=0.5.0
+
+# GUI (comes bundled with Python, listed for clarity)
+# tkinter
+
+# File handling & utilities (standard library)
+# os
+# pathlib
