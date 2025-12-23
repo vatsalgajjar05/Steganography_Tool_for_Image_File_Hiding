@@ -112,7 +112,8 @@ This approach ensures **minimal visual distortion** while securely embedding inf
 
 This project was developed as part of an internship at **Elevate Labs**, focusing on practical applications of **cybersecurity, data hiding, and secure communication techniques**.
 
----
+
+
 
 
 
